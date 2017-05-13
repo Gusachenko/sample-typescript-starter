@@ -29,5 +29,11 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.9.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "material-design-icons": "^3.0.1",
+    "normalize.css": "^7.0.0",
+    "roboto-fontface": "^0.7.0"
   }
 }
